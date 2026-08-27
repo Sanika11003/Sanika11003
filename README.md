@@ -80,7 +80,7 @@ Although I am a fresher, I have built practical projects using AWS, Docker, Jenk
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sanika11003?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/last-commit/Sanika11003/jaiswaladi246?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
+  <img src="https://img.shields.io/github/last-commit/Sanika11003/Sanika11003?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
   <img src="https://komarev.com/ghpvc/?username=Sanika11003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
